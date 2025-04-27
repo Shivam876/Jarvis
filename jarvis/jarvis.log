@@ -1,0 +1,91 @@
+2025-04-27 11:19:45,734 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 11:19:45,734 - INFO - Using writeable comtypes cache directory: 'C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-27 11:54:39,061 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 11:54:39,062 - INFO - Using writeable comtypes cache directory: 'C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-27 12:04:44,867 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 12:04:44,897 - INFO - Using writeable comtypes cache directory: 'C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-27 12:40:16,800 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 12:40:16,801 - INFO - Using writeable comtypes cache directory: 'C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-27 12:59:32,187 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 12:59:32,188 - INFO - Using writeable comtypes cache directory: 'C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-27 12:59:48,300 - INFO - User command: help help
+2025-04-27 12:59:48,300 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 12:59:59,736 - INFO - User command: help
+2025-04-27 12:59:59,736 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:00:10,980 - INFO - User command: hay
+2025-04-27 13:00:10,981 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:00:26,029 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 13:00:26,029 - INFO - Using writeable comtypes cache directory: 'C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-27 13:00:46,008 - INFO - User command: help
+2025-04-27 13:00:46,008 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:01:05,813 - INFO - User command: time what is time
+2025-04-27 13:01:05,813 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:01:06,029 - INFO - User command: time what is time
+2025-04-27 13:01:06,029 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:01:26,314 - INFO - User command: help
+2025-04-27 13:01:26,315 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:01:26,802 - INFO - User command: help
+2025-04-27 13:01:26,803 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:02:00,786 - INFO - User command: bye
+2025-04-27 13:02:00,993 - INFO - User command: bye
+2025-04-27 13:03:35,620 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 13:03:35,620 - INFO - Using writeable comtypes cache directory: 'C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-27 13:03:58,867 - INFO - User command: what's time now
+2025-04-27 13:04:10,836 - INFO - User command: can you search on wikipedia
+2025-04-27 13:04:54,371 - INFO - User command: open youtube
+2025-04-27 13:05:07,188 - INFO - User command: open facebook
+2025-04-27 13:05:19,835 - INFO - User command: open samsung.com
+2025-04-27 13:05:42,057 - INFO - User command: opencourseware
+2025-04-27 13:05:54,547 - INFO - User command: open kagar
+2025-04-27 13:06:19,977 - INFO - User command: can you send a mail to shivam
+2025-04-27 13:06:19,977 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:06:39,577 - INFO - User command: tell me a joke
+2025-04-27 13:06:55,825 - INFO - User command: show system information
+2025-04-27 13:07:28,936 - INFO - User command: help
+2025-04-27 13:07:58,669 - INFO - User command: how many digit in the 99
+2025-04-27 13:07:58,670 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:08:10,376 - INFO - User command: how many digit in 999
+2025-04-27 13:08:10,377 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:08:22,077 - INFO - User command: can you google me what is
+2025-04-27 13:08:22,078 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:08:33,825 - INFO - User command: search wikipedia what is 10
+2025-04-27 13:11:03,431 - INFO - User command: hello
+2025-04-27 13:11:03,431 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:11:23,192 - INFO - User command: hi jarvis
+2025-04-27 13:11:23,192 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:11:34,867 - INFO - User command: hey jarvis
+2025-04-27 13:11:34,867 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:11:46,480 - INFO - User command: what time it is
+2025-04-27 13:11:57,807 - INFO - User command: what is today's date
+2025-04-27 13:12:10,549 - INFO - User command: tell me a joke
+2025-04-27 13:12:24,327 - INFO - User command: open facebook
+2025-04-27 13:12:36,984 - INFO - User command: open youtube
+2025-04-27 13:12:50,338 - INFO - User command: open github
+2025-04-27 13:13:03,240 - INFO - User command: open oneplus website
+2025-04-27 13:13:17,168 - INFO - User command: call
+2025-04-27 13:13:17,168 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:13:29,034 - INFO - User command: what is today's date
+2025-04-27 13:13:59,557 - INFO - User command: bye
+2025-04-27 13:15:40,522 - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\hp\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-27 13:15:40,523 - INFO - Using writeable comtypes cache directory: 'C:\Users\hp\AppData\Local\Programs\Python\Python312\Lib\site-packages\comtypes\gen'
+2025-04-27 13:16:05,717 - INFO - User command: what time is it
+2025-04-27 13:16:38,177 - INFO - User command: can you search youtube
+2025-04-27 13:17:13,300 - INFO - User command: can you open youtube
+2025-04-27 13:17:27,329 - INFO - User command: can you open www.youtube.com
+2025-04-27 13:18:00,938 - INFO - User command: open youtube
+2025-04-27 13:18:13,514 - INFO - User command: open facebook
+2025-04-27 13:18:50,683 - INFO - User command: open youtube.com
+2025-04-27 13:20:10,109 - INFO - User command: hey jarvis
+2025-04-27 13:20:10,110 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:20:21,559 - INFO - User command: what time is it
+2025-04-27 13:20:33,467 - INFO - User command: what date it is
+2025-04-27 13:20:46,302 - INFO - User command: can you give me system information
+2025-04-27 13:21:20,573 - INFO - User command: open youtube.com
+2025-04-27 13:21:36,153 - INFO - User command: open facebook.com
+2025-04-27 13:21:51,000 - INFO - User command: open github.com
+2025-04-27 13:22:05,849 - INFO - User command: tell me a joke
+2025-04-27 13:22:18,818 - INFO - User command: it's not funny tell me another joke
+2025-04-27 13:22:44,248 - INFO - User command: can you give
+2025-04-27 13:22:44,249 - ERROR - Error getting AI response: No API key provided. You can set your API key in code using 'openai.api_key = <API-KEY>', or you can set the environment variable OPENAI_API_KEY=<API-KEY>). If your API key is stored in a file, you can point the openai module at it with 'openai.api_key_path = <PATH>'. You can generate API keys in the OpenAI web interface. See https://platform.openai.com/account/api-keys for details.
+2025-04-27 13:22:56,177 - INFO - User command: operating system windows machine
+2025-04-27 13:23:32,065 - INFO - User command: buy exit
